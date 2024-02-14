@@ -58,7 +58,8 @@ body {
 }
 
 .button:hover {
-    background-color: #dd6464;
+    background-color: #DC5F00;
+    color: #000;
 }
  
 .box{

@@ -26,16 +26,3 @@
     color: #DC5F00;
     margin: 20px;
 }
-.btn {
-    background-color: #CF0A0A;
-    color: #fff;
-    padding: 10px 20px;
-    border: none;
-    border-radius: 5px;
-    text-decoration: none;
-}
-
-.btn:hover {
-    background-color: #DC5F00;
-    color: #000;
-}
