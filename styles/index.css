@@ -61,13 +61,14 @@ body {
     background-color: #DC5F00;
     color: #000;
 }
- 
-.box{
+
+.box {
     margin: auto;
 }
-.photo{
+
+.photo {
     border-radius: 50%;
-    width: 300px; 
+    width: 300px;
     height: 300px;
     margin-top: 50px;
 }

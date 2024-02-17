@@ -1,5 +1,6 @@
 /* SKILLS SECTION */
-.skills{
+
+.skills {
     width: 200px;
     background-color: #ccc;
     color: #000;
@@ -9,28 +10,29 @@
 }
 
 
-.skill-list{
+.skill-list {
     margin: 10px;
 }
 
-li{
+li {
     list-style-type: none;
 }
 
 /* CONTACT SECTION */
 
-.contact{
+.contact {
     display: flex;
-    justify-content: space-between; 
+    justify-content: space-between;
     margin-top: 50px;
     margin-right: 180px;
     margin-left: 500px;
 }
-.contact-form{
+
+.contact-form {
     display: flex;
     flex-direction: column;
     align-items: center;
-    width: 100%; 
+    width: 100%;
 }
 
 
@@ -55,17 +57,17 @@ li{
 }
 
 .contact-form-items:focus {
-    outline:none;
+    outline: none;
 }
 
 
 
-.contact-list{
+.contact-list {
     display: flex;
     align-items: center;
 }
 
-.icon{
+.icon {
     color: #ccc;
     padding: 10px;
 }
@@ -73,19 +75,19 @@ li{
 .icon:hover {
     color: #CF0A0A;
 }
+
 /* ABOUT SECTION */
 
-.about{
+.about {
     margin-top: 50px;
     margin-right: 180px;
     margin-left: 180px;
 }
+
 .text {
     font-size: 16px;
-    line-height: 1.6; 
-    text-align: justify; 
-    max-width: 800px; 
+    line-height: 1.6;
+    text-align: justify;
+    max-width: 800px;
     margin: auto;
 }
-
-
